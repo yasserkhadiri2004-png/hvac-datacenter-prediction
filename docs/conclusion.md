@@ -23,10 +23,10 @@ Ce projet a démontré la faisabilité de **prédire la quantité d'eau vaporis�
 ## Limites
 
 !!! warning "Limites identifiées"
-    1. **Horizon mono-step** : Le projet prédit uniquement t+1. Un horizon multi-pas (h+6, h+12, h+24) serait plus utile opérationnellement.
-    2. **Callbacks DL désactivés** : Les callbacks `EarlyStopping` et `ReduceLROnPlateau` sont définis mais non utilisés — à réactiver en production.
-    3. **Pas de SHAP** : L'interprétabilité XGBoost se limite à la feature importance. L'ajout de valeurs SHAP permettrait une analyse plus fine.
-    4. **Données d'un seul DC** : La généralisation à d'autres data centers nécessiterait une validation croisée sur plusieurs sites.
+    .
+    1. **Callbacks DL désactivés** : Les callbacks `EarlyStopping` et `ReduceLROnPlateau` sont définis mais non utilisés — à réactiver en production.
+    2. **Pas de SHAP** : L'interprétabilité XGBoost se limite à la feature importance. L'ajout de valeurs SHAP permettrait une analyse plus fine.
+    3. **Données d'un seul DC** : La généralisation à d'autres data centers nécessiterait une validation croisée sur plusieurs sites.
 
 ---
 
