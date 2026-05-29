@@ -2,10 +2,10 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?logo=tensorflow)
-![XGBoost](https://img.shields.io/badge/XGBoost-2.x-green)
-![Licence](https://img.shields.io/badge/Licence-MIT-lightgrey)
+[![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)](https://python.org)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?logo=tensorflow)](https://tensorflow.org)
+[![XGBoost](https://img.shields.io/badge/XGBoost-2.x-green)](https://xgboost.readthedocs.io)
+[![Licence](https://img.shields.io/badge/Licence-MIT-lightgrey)](LICENSE)
 
 **Auteur :** Yasser Khadiri  
 **Référence :** *Cours Séries Temporelles* — Pr. Tawfik Masrour (ENSAM-IATD, 2024-2025)
