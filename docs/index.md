@@ -4,10 +4,12 @@
 
 # 💧 Prédiction Vaporisation Eau — Tour de Refroidissement Data Center
 
-![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?logo=tensorflow)
-![XGBoost](https://img.shields.io/badge/XGBoost-2.x-green)
-![Licence](https://img.shields.io/badge/Licence-MIT-lightgrey)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10+-blue?logo=python" alt="Python"/>
+  <img src="https://img.shields.io/badge/TensorFlow-2.x-orange?logo=tensorflow" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/XGBoost-2.x-green" alt="XGBoost"/>
+  <img src="https://img.shields.io/badge/Licence-MIT-lightgrey" alt="Licence"/>
+</p>
 
 **Auteur :** Yasser Khadiri  
 **Référence :** *Cours Séries Temporelles* — Pr. Tawfik Masrour (ENSAM-IATD, 2024-2025)
